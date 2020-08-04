@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="horizontal_btn_color">#404b69</color>
+    <color name="number_color">#000</color>
+    <color name="function_color">#CCB703</color>
+    <color name="equal_color">#2196F3</color>
+
+</resources>
